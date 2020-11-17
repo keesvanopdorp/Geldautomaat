@@ -1,0 +1,8 @@
+C:\Users\keesv\source\repos\GeldAutomaat\geldautomaat_shared\bin\Debug\netstandard2.0\Geldautomaat_shared.deps.json
+C:\Users\keesv\source\repos\GeldAutomaat\geldautomaat_shared\bin\Debug\netstandard2.0\Geldautomaat_shared.dll
+C:\Users\keesv\source\repos\GeldAutomaat\geldautomaat_shared\obj\Debug\netstandard2.0\geldautomaat_shared.csprojAssemblyReference.cache
+C:\Users\keesv\source\repos\GeldAutomaat\geldautomaat_shared\obj\Debug\netstandard2.0\geldautomaat_shared.AssemblyInfoInputs.cache
+C:\Users\keesv\source\repos\GeldAutomaat\geldautomaat_shared\obj\Debug\netstandard2.0\geldautomaat_shared.AssemblyInfo.cs
+C:\Users\keesv\source\repos\GeldAutomaat\geldautomaat_shared\bin\Debug\netstandard2.0\Geldautomaat_shared.pdb
+C:\Users\keesv\source\repos\GeldAutomaat\geldautomaat_shared\obj\Debug\netstandard2.0\Geldautomaat_shared.dll
+C:\Users\keesv\source\repos\GeldAutomaat\geldautomaat_shared\obj\Debug\netstandard2.0\Geldautomaat_shared.pdb
